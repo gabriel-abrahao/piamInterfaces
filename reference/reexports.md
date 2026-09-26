@@ -5,4 +5,4 @@ to see their documentation.
 
 - piamutils:
 
-  [`niceround`](https://rdrr.io/pkg/piamutils/man/niceround.html)
+  [`niceround()`](https://rdrr.io/pkg/piamutils/man/niceround.html)
